@@ -3,3 +3,7 @@ pandas
 plotly
 streamlit==1.36.0
 pandas>=2.0
+openai>=1.0,<2
+python-dotenv>=1.0
+requests>=2.31
+rich>=13.0
